@@ -1,0 +1,1 @@
+# App for creating connection to DB via React.js
