@@ -20,7 +20,7 @@ var path = {
   ],
   MODULES: [
     'node_modules',
-    '../../system_components'
+    '../system_components'
   ]
 };
 
